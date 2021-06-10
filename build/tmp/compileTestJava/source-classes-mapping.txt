@@ -1,0 +1,6 @@
+com/challenge/controllers/UserControllerTest.java
+ com.challenge.controllers.UserControllerTest
+com/challenge/services/UserServiceTest.java
+ com.challenge.services.UserServiceTest
+com/challenge/ChallengeApplicationTests.java
+ com.challenge.ChallengeApplicationTests
